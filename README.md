@@ -9,5 +9,5 @@ Project repo with my changes (open-source-fun branch): https://github.com/stryku
 
 All changes you can find in `clang.diff`
 ### Changes
-* Recursive clang-format:
+* Recursive clang-format: https://github.com/stryku/clang/commit/2fdf1b62c7fd3ce0f6cb11204a19dbf117d53fb2
 
